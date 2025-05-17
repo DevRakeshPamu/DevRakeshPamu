@@ -10,7 +10,7 @@ I'm a **Senior Android Developer** pasionate about building modern scalable, mob
 - Solve real-world problems with clean architecture and solid principals
 - Expieriment with AR, TensorFlow, Machine Learning, WebRTC for real-time experience
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 - Kotlin, Java, XML, Jetpack Compose
 - Hilt, Firebase, Room
