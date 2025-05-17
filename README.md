@@ -12,10 +12,6 @@ I'm a **Senior Android Developer** pasionate about building modern scalable, mob
 
 ### 🛠️ Tech Stack
 
-- Kotlin, Java, XML, Jetpack Compose
-- Hilt, Firebase, Room
-- Git CI/CD (basics), Unit Testing(Learning)
-
 - **Languages:** Kotlin, Java, XML, Jetpack Compose, Dart
 - **Frameworks:** Flutter, Android SDK, iOS SDK
 - **Databases:** SQLite, Firebase, Room
