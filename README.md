@@ -29,12 +29,12 @@ I'm a **Senior Android Developer** pasionate about building modern scalable, mob
 - Backend Development with Node.Js
 
 ###  Let's Connect!
-- ✉️ [Email](mailto:rakesh.3669.p@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-pamu-a78610a7/)
-- 💻 [GitHub](https://github.com/DevRakeshPamu)
+-  [Email](mailto:rakesh.3669.p@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/rakesh-pamu-a78610a7/)
+-  [GitHub](https://github.com/DevRakeshPamu)
 
 
-### ⚡ Fun Fact
+###  Fun Fact
 I love exploring tech that blends creativity and engineering — from **AR overlays** to **AI-assisted development**. Always eager to build things that make life a little easier and cooler.
 
 
