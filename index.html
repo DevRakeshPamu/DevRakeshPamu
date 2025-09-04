@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Your Name — Portfolio</title>
+  <meta name="description" content="Portfolio of Your Name — web developer / designer" />
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav container">
+      <a class="logo" href="/">Your Name</a>
+      <ul class="nav-links" aria-label="Primary">
+        <li><a href="#projects">Work</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section class="hero container">
+      <h1>Hi — I'm <span class="accent">Your Name</span></h1>
+      <p class="lead">I build web experiences (front-end, React, UX) and open-source tools.</p>
+      <p><a class="cta" href="#projects">See my work</a></p>
+    </section>
+  </header>
+
+  <main class="container">
+    <section id="projects" class="projects">
+      <h2>Selected projects</h2>
+      <div class="grid">
+        <article class="card">
+          <img src="images/project1.png" alt="Screenshot — Project One">
+          <h3>Project One</h3>
+          <p>Short description: what it does and tech used.</p>
+          <p class="links">
+            <a href="https://github.com/yourname/project-one" target="_blank" rel="noopener">Code</a> ·
+            <a href="https://projectone.example" target="_blank" rel="noopener">Live</a>
+          </p>
+        </article>
+
+        <article class="card">
+          <img src="images/project2.png" alt="Screenshot — Project Two">
+          <h3>Project Two</h3>
+          <p>Short description: responsibilities & impact.</p>
+          <p class="links">
+            <a href="#">Case study</a> · <a href="#">Repo</a>
+          </p>
+        </article>
+
+        <!-- Duplicate/replace cards as needed -->
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <h2>About</h2>
+      <p>Brief bio (2–3 lines). Where you’re based, what you make, and what you love to build.</p>
+      <ul class="skills" aria-label="Skills">
+        <li>HTML / CSS / JavaScript</li>
+        <li>React / Next.js</li>
+        <li>Design systems & accessibility</li>
+      </ul>
+    </section>
+
+    <section id="contact" class="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+      <p>Or find me on <a href="https://github.com/yourname" target="_blank" rel="noopener">GitHub</a>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer container">
+    <p>&copy; <span id="year"></span> Your Name — <a href="https://github.com/yourname" rel="noopener">GitHub</a></p>
+  </footer>
+
+  <script>
+    // small nicety: current year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
