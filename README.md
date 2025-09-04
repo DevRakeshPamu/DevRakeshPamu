@@ -1,6 +1,6 @@
 ## Hi I'm Rakesh 
 
-I'm a **Senior Android Developer** pasionate about building modern scalable, mobile applications using **Kotlin**, **Jetpack Compose**, and, **clean architecture**.  I Specialize in end to end Android Development and enjoy solving real-world problems with robust app design and smart integration.
+I'm a **Sr Mobile Application Developer** pasionate about building modern scalable, mobile applications using **Kotlin**, **Jetpack Compose**, and, **clean architecture**.  I Specialize in end to end Android Development and enjoy solving real-world problems with robust app design and smart integration.
 
 ----
 
